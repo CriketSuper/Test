@@ -6,3 +6,7 @@ print(x)
 a = x * 10
 
 print(a)
+
+# Имитация работы!
+
+print(a * x)
