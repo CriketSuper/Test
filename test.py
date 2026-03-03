@@ -3,6 +3,6 @@ print('Hellow World!')
 x = 10 + 5
 print(x)
 
-b = x ** 20
+a = x * 10
 
-print(b)
+print(a)
